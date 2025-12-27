@@ -1,0 +1,15 @@
+{
+  "id": "cortado",
+  "title": "Cortado",
+  "type": "coffee",
+  "difficulty": 2,
+  "ingredients": [
+    { "item": "Espresso", "amount": "1 shot" },
+    { "item": "Milk", "amount": "60 ml" }
+  ],
+  "steps": [
+    { "id": "s1", "label": "Steam milk to 55–60°C (130–140°F)" },
+    { "id": "s2", "label": "Combine 1:1 milk and espresso" }
+  ],
+  "unlocks": []
+}

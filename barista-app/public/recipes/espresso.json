@@ -1,0 +1,16 @@
+{
+  "id": "espresso",
+  "title": "Espresso",
+  "type": "coffee",
+  "difficulty": 2,
+  "ingredients": [
+    { "item": "Coffee beans", "amount": "18 g" },
+    { "item": "Water", "amount": "36 g" }
+  ],
+  "steps": [
+    { "id": "s1", "label": "Grind 18g medium-fine" },
+    { "id": "s2", "label": "Tamp evenly" },
+    { "id": "s3", "label": "Pull 25–30s shot" }
+  ],
+  "unlocks": ["americano","cortado"]
+}

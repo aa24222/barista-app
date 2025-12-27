@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "recipes": [
+    { "id": "espresso",  "title": "Espresso",  "type": "coffee", "difficulty": 2 },
+    { "id": "americano", "title": "Americano", "type": "coffee", "difficulty": 1 },
+    { "id": "cortado",   "title": "Cortado",   "type": "coffee", "difficulty": 2 }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "americano",
+  "title": "Americano",
+  "type": "coffee",
+  "difficulty": 1,
+  "ingredients": [
+    { "item": "Espresso", "amount": "1 shot" },
+    { "item": "Hot water", "amount": "100–120 ml" }
+  ],
+  "steps": [
+    { "id": "s1", "label": "Add hot water" },
+    { "id": "s2", "label": "Pour espresso" }
+  ],
+  "unlocks": []
+}
